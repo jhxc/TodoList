@@ -1,7 +1,7 @@
 # TodoList
 Simple TodoList developed when learning ReactJS. Followed Brad Traversy's tutorial (https://www.traversymedia.com)
 
-#What I learned
+# What I learned
   1. ReactJS basics, file structure, components, props
   2. Fractional components and how they interact with App.js
   3. Using routing to move between pages
